@@ -5,7 +5,7 @@ Launch
 ---
 The balloon was launched at 13:15 EST on November 11, 2012 from Gerstenslager Park near Wooster, OH  ([Google Maps](http://maps.google.com/maps?q=40.814037N+81.913269W))
 
-![Launch Preparation](https://raw.github.com/rbergerpa/c1_flight/master/images_small/1.jpg)  ![Balloon Away!](https://raw.github.com/rbergerpa/c1_flight/master/images_small/2.jpg)
+<img src="https://raw.github.com/rbergerpa/c1_flight/master/images_small/1.jpg"></img> <img style="margin-left: 20px" src="https://raw.github.com/rbergerpa/c1_flight/master/images_small/2.jpg">
 
 Flight Path and Tracking
 ---
