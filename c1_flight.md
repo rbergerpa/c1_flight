@@ -5,7 +5,7 @@ Launch
 ---
 The balloon was launched at 13:15 EST on November 11, 2012 from Gerstenslager Park near Wooster, OH  ([Google Maps](http://maps.google.com/maps?q=40.814037N+81.913269W))
 
-<img src="https://raw.github.com/rbergerpa/c1_flight/master/images_small/1.jpg"></img> <img style="margin-left: 20px" src="https://raw.github.com/rbergerpa/c1_flight/master/images_small/2.jpg">
+<img src="https://raw.github.com/rbergerpa/c1_flight/master/images_small/1.jpg"></img><img style="margin-left: 20px" src="https://raw.github.com/rbergerpa/c1_flight/master/images_small/2.jpg">
 
 Flight Path and Tracking
 ---
@@ -37,6 +37,7 @@ Here is a screen shot from an __APRS__ internet server showing the position repo
 The approximate landing location was in northwest Pennsylvania very close to the intersections of Interstate 80 and Interstate 376.  Our next fear was we might receive position reports traveling east toward New Jersey at 70 MPH on the top of some truck!
 
 Fortunately that did not happen. As we approached the intersection near the position reports we began to receive __APRS__ data from the balloon directly on 144.39 MHz. The received position was transferred to a handheld GPS unit, which lead us to 60 feet from the tree the balloon had landed in.
+
 ![Balloon in Tree](https://raw.github.com/rbergerpa/c1_flight/master/images_small/4.jpg)
 
 Experiment Results
