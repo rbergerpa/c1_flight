@@ -22,9 +22,9 @@ Fortunately the ham radio community provides an infrastructure that extends the 
 
 As the crew finished lunch and resumed chasing the balloon we were about 80 miles behind the balloon, which was heading east along a path that roughly followed Interstate 80. Thanks to the _APRS__ digipeaters and iGates provided by fellow ham radio operators, we were able to follow the track of the balloon on our cell phones and tablets via the internet. This worked well during the ascent portion of the flight. At 14:27 EST the balloon reached its maximum altitude of 111,759 feet and burst, beginning it's descent. As the descent began we received two __APRS__ position reports from 102,264 feet and 95,486 feet.
 
-For reasons that are still unknown we then stopped receiving __APRS__ data from the balloon for 25 minutes. This had the chase crew anxious, since without accurate position information we would not be able to find the landing site of the balloon. Except for the position data transmitted by __APRS__, all of the experimental payloads on this flight recorded their data on board. If we did not recover the balloon we would not even have any interesting data to show for all of our efforts. (For future balloon flights we plan to send experiment results via ham radio during the flight, so we will have data even if the balloon is not recovered).
+For reasons that are still unknown we then stopped receiving __APRS__ data from the balloon for 25 minutes. This made the chase crew apprehensive, since without accurate position information we would not be able to find the landing site of the balloon. Except for the position data transmitted by __APRS__, all of the experimental payloads on this flight recorded their data on board. If we did not recover the balloon we would not even have any interesting data to show for all of our efforts. (For future balloon flights we plan to send experiment results via ham radio during the flight, so we will have data even if the balloon is not recovered).
 
-The chase vehicles continued east on Interstate 80 along the last known path of the balloon. We were getting quite dejected, since 25 minutes is close to the expected descent time. If the balloon were already on the ground without having transmitted it's position to the iGate connected servers we might never find it.
+The chase vehicles continued east on Interstate 80 along the last known path of the balloon. We were getting quite dejected, since 25 minutes is close to the expected descent time. If the balloon were already on the ground without having transmitted it's position to the __APRS__ internet servers we might never find it.
 
 Suddenly we received two final __APRS__ position reports via the internet; one from approximately 2000 feet above ground level, and one from 1000 feet.  Since the balloon was now near the ground this gave us knowledge of where the balloon would land within a few hundred feet. 
 
@@ -36,7 +36,7 @@ This is a screen shot from an __APRS__ internet server showing the position repo
 
 The approximate landing location was in northwest Pennsylvania very close to the intersections of Interstate 80 and Interstate 376.  Our next fear was we might receive position reports traveling east toward New Jersey at 70 MPH on the top of some truck!
 
-Fortunately that did not happen. As we approached the intersection near the position reports we began to receive __APRS__ data from the balloon directly on 144.39 MHz. The received position was transferred to a handheld GPS unit, which lead us to 60 feet from the tree the balloon had landed in.
+Fortunately that did not happen. As we approached the intersection near the position reports we began to receive __APRS__ data from the balloon directly on 144.39 MHz via receivers in the chase vehicles. The received position was transferred to a handheld GPS unit, which lead us to 60 feet from the tree the balloon had landed in.
 
 ![Balloon in Tree](https://raw.github.com/rbergerpa/c1_flight/master/images_small/4.jpg)
 
